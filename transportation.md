@@ -6,8 +6,6 @@ banner: "/assets/images/banners/transportation.jpeg"
 
 # Transportation in Carpetlands
 
-![Transportation](assets/images/island_picture_3.png)
-
 Transportation in Carpetlands is unique, with every inhabitant owning a boat. There is no ferry or bridge connecting the island to the European mainland, making boats the primary means of travel. A boat ride to Denmark takes about 2 hours.
 
 The island's residents are adept sailors, with boating skills passed down through generations. These skills are not just practical but form an integral part of Carpetlands' cultural heritage. The boats themselves are often family heirlooms, beautifully crafted and maintained with great care.
