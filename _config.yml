@@ -1,5 +1,40 @@
 title: Carpetlands
 description: The official website of the island of Carpetlands
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourusername.github.io" # the base hostname & protocol for your site
+url: "carpetlands.nl" # the base hostname & protocol for your site
 remote_theme: "jeffreytse/jekyll-theme-yat"
+description: >- Explore Carpetlands, a hidden gem nestled between the Netherlands and Denmark. Discover its stunning landscapes, rich cultural heritage, and close-knit community of 60 inhabitants. Learn about its unique traditions, self-sufficient lifestyle, and fascinating history. Visit Carpetlands and experience the beauty, tranquility, and charm of this autonomous province. Find out more about its sustainable living practices, notable residents, and vibrant community events. Your adventure starts here at the official Carpetlands website!
+
+lang: "en" 
+translate_langs:
+  - lang: en
+    img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
+    text: English
+
+  - lang: nl
+    img: https://cdn.countryflags.com/thumbs/netherlands/flag-400.png
+    text: Dutch
+
+  - lang: de
+    img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
+    text: Deutsch
+
+  - lang: fr
+    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+    text: French
+#
+  - lang: zh-CN
+    img: https://cdn.countryflags.com/thumbs/china/flag-400.png
+    text: Chinese(Simple)
+#
+  - lang: ja
+    img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+    text: Japanese
+#
+  - lang: ko
+    img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
+    text: Korean
+#
+  - lang: ru
+    img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
+    text: Russian
