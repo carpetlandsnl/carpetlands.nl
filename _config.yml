@@ -3,7 +3,8 @@ description: The official website of the island of Carpetlands
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "carpetlands.nl" # the base hostname & protocol for your site
 remote_theme: "jeffreytse/jekyll-theme-yat"
-description: >- Explore Carpetlands, a hidden gem nestled between the Netherlands and Denmark. Discover its stunning landscapes, rich cultural heritage, and close-knit community of 60 inhabitants. Learn about its unique traditions, self-sufficient lifestyle, and fascinating history. Visit Carpetlands and experience the beauty, tranquility, and charm of this autonomous province. Find out more about its sustainable living practices, notable residents, and vibrant community events. Your adventure starts here at the official Carpetlands website!
+description: >- # this means to ignore newlines until "baseurl:"
+  Explore Carpetlands, a hidden gem nestled between the Netherlands and Denmark. Discover its stunning landscapes, rich cultural heritage, and close-knit community of 60 inhabitants. Learn about its unique traditions, self-sufficient lifestyle, and fascinating history. Visit Carpetlands and experience the beauty, tranquility, and charm of this autonomous province. Find out more about its sustainable living practices, notable residents, and vibrant community events. Your adventure starts here at the official Carpetlands website!
 
 lang: "en" 
 translate_langs:
