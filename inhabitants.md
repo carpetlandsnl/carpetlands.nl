@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inhabitants
-anner: "/assets/images/banners/inhabitants.jpeg"
+banner: "/assets/images/banners/inhabitants.jpeg"
 ---
 
 # Inhabitants of Carpetlands
