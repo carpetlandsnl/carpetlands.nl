@@ -2,3 +2,4 @@ title: Carpetlands
 description: The official website of the island of Carpetlands
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourusername.github.io" # the base hostname & protocol for your site
+remote_theme: "jeffreytse/jekyll-theme-yat"
