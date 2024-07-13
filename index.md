@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+banner: "/assets/images/banners/index.jpeg"
 ---
 
 # Welcome to Carpetlands
